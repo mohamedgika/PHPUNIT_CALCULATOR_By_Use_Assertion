@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":304:{a:2:{s:7:"defects";a:1:{s:31:"calculatorTest::test_multi_calc";i:3;}s:5:"times";a:5:{s:31:"calculatorTest::test_equal_true";d:0.006;s:29:"calculatorTest::test_add_calc";d:0.006;s:29:"calculatorTest::test_sub_calc";d:0;s:31:"calculatorTest::test_multi_calc";d:0;s:29:"calculatorTest::test_div_calc";d:0;}}}
