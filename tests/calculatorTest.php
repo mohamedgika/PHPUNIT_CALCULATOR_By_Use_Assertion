@@ -37,6 +37,11 @@ class calculatorTest extends TestCase
         $c = new calculator();
         $this->assertEquals( $c->div(10,2) , 5);     
     }
+
+
+    public function test_modelus_calc(){
+        
+    }
 }
 
 
