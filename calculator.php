@@ -17,6 +17,10 @@ class calculator{
     public function multi($x,$y){
         return $x*$y;
     }
+
+    public function modelus($x,$y){
+        return $x % $y;
+    }
     
 }
 

@@ -40,7 +40,8 @@ class calculatorTest extends TestCase
 
 
     public function test_modelus_calc(){
-        
+        $c = new calculator();
+        $this->assertEquals($c->modelus(10,2),0);
     }
 }
 
